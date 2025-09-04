@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Ambikesh Prajapati
 
-🚀 **Python Engineer** with 1.5+ years of experience in backend development, APIs, ETL pipelines, and AI project integration.  
+🚀 **AI Engineer** with 3+ years of experience in AI, Data Analytics, backend development, APIs, ETL pipelines.  
 Passionate about solving complex problems with clean, efficient code and delivering impactful results.
 
 ---
 
 ## 🔧 Skills & Technologies
 
-- **Languages:** Python  
+- **Languages:** Python, C++
 - **Backend:** Flask, FastAPI  
-- **Data Manipulation:** Pandas  
+- **Data Manipulation:** Pandas, Numpy  
 - **Databases:** MongoDB, SQL, MilvusDB  
 - **ORM:** SQLAlchemy  
 - **Version Control:** Git, BitBucket  
@@ -19,8 +19,9 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ## 💼 Experience
 
-**Python Developer — Althea.ai India Pvt. Ltd.**  
+**Sr. AI Engineer — Consint Solutions Pvt. Ltd.**  
 *Sep 2022 – Present*  
+- Developed RAG based AI models
 - Developed backend systems and APIs.  
 - Built ETL pipelines and integrated AI solutions.  
 
@@ -53,9 +54,9 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ## 🏆 Achievements
 
-- 🥇 Quarterly Innovation Award — *Althea.ai*  
-- 🏅 Employee of The Quarter — *Althea.ai*  
-- 🌟 Promising Newcomer Award — *Althea.ai*  
+- 🥇 Quarterly Innovation Award — *Consint Solutions Pvt. Ltd.*  
+- 🏅 Employee of The Quarter — *Consint Solutions Pvt. Ltd.*  
+- 🌟 Promising Newcomer Award — *Consint Solutions Pvt. Ltd.*  
 - 🥇 Gold Medal in Developing Soft Skills and Personality — *IIT Kanpur*  
 
 ---
@@ -65,6 +66,8 @@ Passionate about solving complex problems with clean, efficient code and deliver
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ambikesh-prajapati-62147b1a7)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ambikeshprajapati)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ambikesh.p.30@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ambikeshprajapati/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/ambikesh1729)  
 
 ---
 
