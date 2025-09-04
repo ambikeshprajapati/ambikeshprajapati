@@ -66,8 +66,8 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ambikesh-prajapati-62147b1a7)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ambikeshprajapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ambikesh-prajapati-62147b1a7)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ambikeshprajapati)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ambikesh.p.30@gmail.com)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ambikeshprajapati/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/ambikesh1729)  
