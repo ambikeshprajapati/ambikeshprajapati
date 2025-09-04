@@ -8,37 +8,18 @@ Passionate about solving complex problems with clean, efficient code and deliver
 ---
 
 ## 🔧 Skills & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 ### 🖥️ Programming & Backend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=Flask" alt="Flask" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Drools" width="50" height="50"/>
-</p>  
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,flask,fastapi&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SSMS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/milvus-io/artwork/master/milvus-logo.svg" alt="Milvus" width="50" height="50"/>
-</p>  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&theme=dark)](https://skillicons.dev) 
 
 ### ⚙️ Tools & Automation  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" alt="UiPath" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-</p>  
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Web Technologies  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 ## 💼 Experience
 
 **Sr. AI Engineer — Consint Solutions Pvt. Ltd.**  
