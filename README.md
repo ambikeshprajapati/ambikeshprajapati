@@ -7,32 +7,23 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ---
 
-## 🔧 Skills & Technologies
+## 🔧 Skills & Technologies## 🔧 Skills & Technologies  
 
-### 🖥️ Programming & Backend  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Drools](https://img.shields.io/badge/Drools-FF0000?logo=redhat&logoColor=white)  
-
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)  
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)  
-![SSMS](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
-![Milvus](https://img.shields.io/badge/Milvus-00BFFF?logo=milvus&logoColor=white)  
-
-### ⚙️ Tools & Automation  
-![UiPath](https://img.shields.io/badge/UiPath-FF6C37?logo=uipath&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-
-### 🌐 Web Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SSMS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/milvus-io/artwork/master/milvus-logo.svg" alt="Milvus" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" alt="UiPath" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</p>
 
 ## 💼 Experience
 
