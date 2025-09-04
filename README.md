@@ -8,7 +8,7 @@ Passionate about solving complex problems with clean, efficient code and deliver
 ---
 
 ## 🔧 Skills & Technologies  
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ### 🖥️ Programming & Backend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
