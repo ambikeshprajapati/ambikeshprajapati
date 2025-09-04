@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ambikesh Prajapati
 
-🚀 **AI Engineer** with 3+ years of experience in AI, Data Analytics, backend development, APIs, ETL pipelines.  
+**AI Engineer** with 3+ years of experience in AI, Data Analytics, backend development, APIs, ETL pipelines.  
 Passionate about solving complex problems with clean, efficient code and delivering impactful results.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ambikeshprajapati&label=Profile%20Views&color=blue&style=flat)
@@ -47,6 +47,9 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ## 🛠 Projects
 
+- **No/Low code rule creation**  
+  Python based no/low code platform for business rule creation.
+  
 - **Life Saving Ventilator**  
   Arduino-based ventilator to provide appropriate oxygen levels.  
 
@@ -57,6 +60,7 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ## 🏆 Achievements
 
+- 🥇 Spot Award — *Consint Solutions Pvt. Ltd.*  
 - 🥇 Quarterly Innovation Award — *Consint Solutions Pvt. Ltd.*  
 - 🏅 Employee of The Quarter — *Consint Solutions Pvt. Ltd.*  
 - 🌟 Promising Newcomer Award — *Consint Solutions Pvt. Ltd.*  
