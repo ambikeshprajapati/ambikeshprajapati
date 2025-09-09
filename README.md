@@ -16,9 +16,7 @@ Passionate about solving complex problems with clean, efficient code and deliver
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&theme=dark)](https://skillicons.dev) 
 
 ### ⚙️ Tools & Automation  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,github&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Drools (Java-based)" width="48" height="48"/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,github&theme=dark)](https://skillicons.dev) 
 
 ### 🌐 Web Technologies  
 [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
@@ -62,11 +60,13 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ## 🏆 Achievements
 
-- 🥇 Spot Award — *Consint Solutions Pvt. Ltd.*  
-- 🥇 Quarterly Innovation Award — *Consint Solutions Pvt. Ltd.*  
-- 🏅 Employee of The Quarter — *Consint Solutions Pvt. Ltd.*  
-- 🌟 Promising Newcomer Award — *Consint Solutions Pvt. Ltd.*  
-- 🥇 Gold Medal in Developing Soft Skills and Personality — *IIT Kanpur*  
+<p align="left">
+  <img src="spot_award.jpg" alt="- 🥇 Spot Award — *Consint Solutions Pvt. Ltd.*" width="80" height="80"/>
+  <img src="innovation_award.jpg" alt="- 🥇 Quarterly Innovation Award — *Consint Solutions Pvt. Ltd.* " width="80" height="80"/>
+  <img src="employee_quarter_award.jpg" alt="- 🏅 Employee of The Quarter — *Consint Solutions Pvt. Ltd.*" width="80" height="80"/>
+  <img src="new_comer_award.jpg" alt="- 🌟 Promising Newcomer Award — *Consint Solutions Pvt. Ltd.* " width="80" height="80"/>
+  <img src="new_comer_award.jpg" alt="- 🥇 Gold Medal in Developing Soft Skills and Personality — *IIT Kanpur*  " width="80" height="80"/>
+</p>
 
 ---
 
