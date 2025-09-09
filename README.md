@@ -17,6 +17,8 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ### ⚙️ Tools & Automation  
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,github&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Drools (Java-based)" width="48" height="48"/>
 
 ### 🌐 Web Technologies  
 [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
