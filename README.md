@@ -58,18 +58,32 @@ Passionate about solving complex problems with clean, efficient code and deliver
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
-<p align="left">
-  <img src="spot_award.jpg" alt="- 🥇 Spot Award — *Consint Solutions Pvt. Ltd.*" width="80" height="80"/>
-  <img src="innovation_award.jpg" alt="- 🥇 Quarterly Innovation Award — *Consint Solutions Pvt. Ltd.* " width="80" height="80"/>
-  <img src="employee_quarter_award.jpg" alt="- 🏅 Employee of The Quarter — *Consint Solutions Pvt. Ltd.*" width="80" height="80"/>
-  <img src="new_comer_award.jpg" alt="- 🌟 Promising Newcomer Award — *Consint Solutions Pvt. Ltd.* " width="80" height="80"/>
-  <img src="new_comer_award.jpg" alt="- 🥇 Gold Medal in Developing Soft Skills and Personality — *IIT Kanpur*  " width="80" height="80"/>
-</p>
+<table>
+  <tr>
+    <td><img src="spot_award.jpg" alt="Spot Award" width="80" height="80"/></td>
+    <td>🥇 Spot Award — <i>Consint Solutions Pvt. Ltd.</i></td>
+  </tr>
+  <tr>
+    <td><img src="innovation_award.jpg" alt="Quarterly Innovation Award" width="80" height="80"/></td>
+    <td>🥇 Quarterly Innovation Award — <i>Consint Solutions Pvt. Ltd.</i></td>
+  </tr>
+  <tr>
+    <td><img src="employee_quarter_award.jpg" alt="Employee of the Quarter" width="80" height="80"/></td>
+    <td>🏅 Employee of The Quarter — <i>Consint Solutions Pvt. Ltd.</i></td>
+  </tr>
+  <tr>
+    <td><img src="new_comer_award.jpg" alt="Promising Newcomer Award" width="80" height="80"/></td>
+    <td>🌟 Promising Newcomer Award — <i>Consint Solutions Pvt. Ltd.</i></td>
+  </tr>
+  <tr>
+    <td><img src="iitk_gold_medal.jpg" alt="IIT Kanpur Gold Medal" width="80" height="80"/></td>
+    <td>🥇 Gold Medal in Developing Soft Skills and Personality — <i>IIT Kanpur</i></td>
+  </tr>
+</table>
 
 ---
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ambikesh-prajapati-62147b1a7)  
