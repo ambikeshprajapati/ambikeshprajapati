@@ -78,7 +78,7 @@ Passionate about solving complex problems with clean, efficient code and deliver
     <td>🌟 Promising Newcomer Award — <i>Consint Solutions Pvt. Ltd.</i></td>
   </tr>
   <tr>
-    <td><img src="iitk_gold_medal.jpg" alt="IIT Kanpur Gold Medal" width="80" height="80"/></td>
+    <td><img src="soft_skill award.jpg" alt="IIT Kanpur Gold Medal" width="80" height="80"/></td>
     <td>🥇 Gold Medal in Developing Soft Skills and Personality — <i>IIT Kanpur</i></td>
   </tr>
 </table>
